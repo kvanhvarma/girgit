@@ -12,10 +12,10 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: girgit_development
+  database: girgit
   pool: 5
   username: root
-  password:
+  password: Ku247v@ma
   socket: /tmp/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -35,8 +35,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: girgit_production
+  database: girgit
   pool: 5
   username: root
-  password:
+  password: Ku247v@ma
   socket: /tmp/mysql.sock
